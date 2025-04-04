@@ -4,7 +4,7 @@ A port scanner is a crucial tool for network security professionals and enthusia
 
 ///// install /////////////
 
-import pyfiglet #pip install pyfiglet
-import sys
-import socket
+import pyfiglet #pip install pyfiglet,
+import sys,
+import socket,
 from datetime import datetime
